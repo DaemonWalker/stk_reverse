@@ -1,4 +1,4 @@
-module go-proxy
+module stk-proxy
 
 go 1.20
 
